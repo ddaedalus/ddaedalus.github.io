@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. My name is Andreas Kontogiannis. I have a MEng in Electrical & Computer Engineering from National Technical University of Athens (NTUA). My major was in Computer Science 🖥️. I carried out research on [Focused Crawling](https://en.wikipedia.org/wiki/Focused_crawler) ethnopharmacological references on [PubMed](https://pubmed.ncbi.nlm.nih.gov/) as part of my thesis, where I examined Deep Active and Reinforcement Learning models on word embeddings.
+Welcome to my personal website. My name is Andreas Kontogiannis. I have a MEng in Electrical & Computer Engineering from National Technical University of Athens (NTUA). My major was in Computer Science 🖥️. I carried out research on [Focused Crawling](https://en.wikipedia.org/wiki/Focused_crawler) ethnopharmacological references on [PubMed](https://pubmed.ncbi.nlm.nih.gov/) as part of my thesis, where I examined Deep Active Learning models and Reinforcement Learning frameworks on word embeddings and statistical features.
 
 In general, my research interests include Reinforcement Learning, Machine/Deep Learning, Natural Language Processing and Text Mining. 

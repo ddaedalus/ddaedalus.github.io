@@ -43,63 +43,41 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
-    <td><b>National Technical University of Athens</b>, Athens, Greece  <br/>
+    <td><b>National Technical University of Athens</b> <br/>
       <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
-      2015 -- 2021  <br/>
+      2015 - 2021  <br/>
       <i>Major</i>: Computer Science <br/>
-      <i>Cumulative GPA</i>: <b>8.1</b> / 10 <br/>
+      <i>GPA</i>: 8.1 / 10 <br/>
 <!--       <i>Thesis</i>: <a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/52318/chochlakis_thesis.pdf?sequence=4&isAllowed=y" target="_blank"> Using Artificial Neural Networks for Zero-shot Learning </a> <br/> -->
-           <i>Thesis</i>: Focused Crawling on ethnopharmacological topics with Active and Reinforcement Learning </a> <br/>
+           <i>Thesis</i>: "Focused Crawling on ethnopharmacological topics with Active and Reinforcement Learning" <br/>
      <i>Advisors</i>: <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">George Giannakopoulos</a>, <a             href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
     </td>
   </tr>
 </table>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<hr>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<table>
+  <tr>
+    <th colspan=2> Research Experience </th>
+  </tr>
+  <tr>
+    <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
+    <td><b>National Center for Scientific Research "Demokritos"</b>, Agia Paraskevi, Greece <br/>
+      <i>Research intern</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
+      Jul 202o - Aug 2020 <br/>
+      <i>Duties</i>: Focused Crawling Tasks with Reinforcement Learning <br/>
+<!--       <i>Body of Work</i>: <a href="https://www.mdpi.com/2072-4292/12/12/2002" target="_blank">paper</a> with <a href="https://github.com/Panagiotou/ImageToDEM" target="_blank">code</a> <br/> -->
+<!--       <i>Advisor</i>: <a href="https://users.iit.demokritos.gr/~exarou/" target="_blank">Dr. Eleni Charou</a> -->
+    </td>
+  </tr>
+</table>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<hr>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<table>
+  <tr><th> Talks and Presentations </th></tr>
+   {% for post in site.talks %}
+    <tr><td>{% include archive-single-cv.html %}</td></tr>
+  {% endfor %}
+</table>

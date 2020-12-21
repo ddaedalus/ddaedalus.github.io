@@ -65,7 +65,7 @@ redirect_from:
     <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
     <td><b>National Center for Scientific Research "Demokritos"</b>, Agia Paraskevi, Greece <br/>
       <i>Research intern</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
-      Jul 202o - Aug 2020 <br/>
+      Jul 2020 - Aug 2020 <br/>
       <i>Duties</i>: Focused Crawling Tasks with Reinforcement Learning <br/>
 <!--       <i>Body of Work</i>: <a href="https://www.mdpi.com/2072-4292/12/12/2002" target="_blank">paper</a> with <a href="https://github.com/Panagiotou/ImageToDEM" target="_blank">code</a> <br/> -->
 <!--       <i>Advisor</i>: <a href="https://users.iit.demokritos.gr/~exarou/" target="_blank">Dr. Eleni Charou</a> -->
@@ -81,3 +81,18 @@ redirect_from:
     <tr><td>{% include archive-single-cv.html %}</td></tr>
   {% endfor %}
 </table>
+
+<hr>
+
+Skills
+------
+* Programming Languages: Python, Java, Prolog, C/C++, SML, SQL
+* Machine Learning: Tensorflow 2.x, Keras, Sklearn, PyTorch
+
+Languages
+------
+🇬🇷 Greek (Native), 🇬🇧 🇺🇸 English (C2), 🇩🇪 German (B1)
+
+Hobbies
+-------
+Football ⚽, Basketball 🏀, AI Books 🚀, Movies 🎥

@@ -48,9 +48,8 @@ redirect_from:
       2015 - 2021  <br/>
       <i>Major</i>: Computer Science <br/>
       <i>GPA</i>: 8.1 / 10 <br/>
-<!--       <i>Thesis</i>: <a href="https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/52318/chochlakis_thesis.pdf?sequence=4&isAllowed=y" target="_blank"> Using Artificial Neural Networks for Zero-shot Learning </a> <br/> -->
-           <i>Thesis</i>: "Focused Crawling on ethnopharmacological topics with Active and Reinforcement Learning" <br/>
-     <i>Advisors</i>: <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">George Giannakopoulos</a>, <a             href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
+      <i>Thesis</i>: "Focused Crawling on ethnopharmacological topics with Active and Reinforcement Learning" <br/>
+      <i>Advisors</i>: <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">George Giannakopoulos</a>, <a             href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
     </td>
   </tr>
 </table>
@@ -67,8 +66,6 @@ redirect_from:
       <i>Research intern</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
       Jul 2020 - Aug 2020 <br/>
       <i>Duties</i>: Focused Crawling Tasks with Reinforcement Learning <br/>
-<!--       <i>Body of Work</i>: <a href="https://www.mdpi.com/2072-4292/12/12/2002" target="_blank">paper</a> with <a href="https://github.com/Panagiotou/ImageToDEM" target="_blank">code</a> <br/> -->
-<!--       <i>Advisor</i>: <a href="https://users.iit.demokritos.gr/~exarou/" target="_blank">Dr. Eleni Charou</a> -->
     </td>
   </tr>
 </table>
@@ -86,8 +83,8 @@ redirect_from:
 
 Skills
 ------
-* Programming Languages: Python, Java, Prolog, C/C++, SML, SQL
-* Machine Learning: Tensorflow 2.x, Keras, Sklearn, PyTorch
+Programming Languages: Python, Java, Prolog, C/C++, SML, SQL
+Machine Learning: Tensorflow 2.x, Keras, Sklearn, PyTorch
 
 Languages
 ------

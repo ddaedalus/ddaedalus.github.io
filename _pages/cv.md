@@ -83,8 +83,8 @@ redirect_from:
 
 Skills
 ------
-Programming Languages: Python, Java, Prolog, C/C++, SML, SQL
-Machine Learning: Tensorflow 2.x, Keras, Sklearn, PyTorch
+* Programming Languages: Python, Java, Prolog, C/C++, SML, SQL
+* Machine Learning: Tensorflow 2.x, Keras, Sklearn, PyTorch
 
 Languages
 ------

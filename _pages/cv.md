@@ -63,8 +63,8 @@ redirect_from:
   <tr>
     <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
     <td><b>National Center for Scientific Research "Demokritos"</b>, Agia Paraskevi, Greece <br/>
-      Mar 2020 - Present <i>Undergraduate Research Assistant</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
-      Jul 2020 - Aug 2020, <i>Research intern</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
+      Mar 2020 - Present: <i>Undergraduate Research Assistant</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
+      Jul 2020 - Aug 2020: <i>Research intern</i> at the <i>Institute of Informatics & Telecommunications</i> <br/>
       <i>Duties</i>: Focused Crawling Tasks with Reinforcement Learning <br/>
     </td>
   </tr>

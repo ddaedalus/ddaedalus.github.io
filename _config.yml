@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andreas Kontogiannis"
   avatar           : "fb2.jpg"
-  bio              : "MEng in ECE from NTUA"
+  bio              : "M.Eng in ECE from NTUA"
   location         : "Melissia, Attica, Greece"
   employer         : # "Behavioral Signals"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : 13485850/ddaedalus
-  uri              : https://ai.stackexchange.com/users/36055/ddaedalus
+  uri              :
   steam            :
   tumblr           :
   twitter          : # "replacethistwitterhandle"

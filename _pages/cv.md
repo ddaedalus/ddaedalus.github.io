@@ -49,7 +49,7 @@ redirect_from:
       <i>Major</i>: Computer Science <br/>
       <i>GPA</i>: 8.11 / 10.00 <br/>
       <i>Thesis</i>: "Focused Crawling on ethnopharmacological topics with Active and Reinforcement Learning" <br/>
-      <i>Advisors</i>: <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">George Giannakopoulos</a>, <a             href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
+      <i>Advisors</i>: <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">Dr. George Giannakopoulos</a>, <a             href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
     </td>
   </tr>
 </table>

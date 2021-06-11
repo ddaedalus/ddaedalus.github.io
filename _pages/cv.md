@@ -47,7 +47,7 @@ redirect_from:
       <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
       2015 - 2021  <br/>
       <i>Major</i>: Computer Science <br/>
-      <i>GPA</i>: 8.1 / 10 <br/>
+      <i>GPA</i>: 8.11 / 10.00 <br/>
       <i>Thesis</i>: "Focused Crawling on ethnopharmacological topics with Active and Reinforcement Learning" <br/>
       <i>Advisors</i>: <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">George Giannakopoulos</a>, <a             href="https://slp.cs.ece.ntua.gr/potam/index.html" target="_blank">Prof. Alexandros Potamianos</a>
     </td>
@@ -61,11 +61,17 @@ redirect_from:
     <th colspan=2> Research Experience </th>
   </tr>
   <tr>
+    <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img src="../images/UNIPI.png"></a></td>
+    <td><b>University of Pireaus"</b>, Artificial Intelligence Laboratory, Greece <br/>
+      Jun 2021 - Present: <i><b>Research Assistant</b></i> <br/>
+      <i><u>Duties</u></i>: Research on Explainable Reinforcement Learning <br/>
+    </td>
+  </tr>
+    <tr>
     <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
     <td><b>National Center for Scientific Research "Demokritos"</b>, Institute of Informatics & Telecommunications, Greece <br/>
-      Mar 2020 - Present: <i>Undergraduate Research Assistant</i> <br/>
-      Jul 2020 - Aug 2020: <i>Research intern</i> <br/>
-      <i>Duties</i>: Focused Crawling Tasks with Reinforcement Learning <br/>
+      Mar 2020 - Feb 2021: <i><b>Undergraduate Research Assistant</b></i> <br/>
+      <i><u>Duties</u></i>: Research on Focused Crawling tasks with Reinforcement Learning <br/>
     </td>
   </tr>
 </table>

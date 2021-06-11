@@ -64,14 +64,16 @@ redirect_from:
     <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img src="../images/UNIPI.jpg"></a></td>
     <td><b>University of Pireaus</b>, Artificial Intelligence Laboratory, Greece <br/>
       Jun 2021 - Present: <i><b>Research Assistant</b></i> <br/>
-      <i><u>Duties</u></i>: Research on Explainable Reinforcement Learning <br/>
+      <i><u>Research topics</u></i>: Explainable Reinforcement Learning (XRL) <br/>
+      - Working on <a href="http://datacron1.ds.unipi.gr:9083/ai-lab/projects/tapas-towards-an-automated-and-explainable-atm-system/ target="_blank">TAPAS</a> project
+      - Supervised by <a href="https://www.semanticscholar.org/author/G.-Vouros/1680125" target="_blank">Prof. George Vouros</a>
     </td>
   </tr>
     <tr>
     <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
     <td><b>National Center for Scientific Research "Demokritos"</b>, Software and Knowledge Engineering Lab, Greece <br/>
       Mar 2020 - Feb 2021: <i><b>Undergraduate Research Assistant</b></i> <br/>
-      <i><u>Duties</u></i>: Research on Focused Crawling tasks with Reinforcement Learning <br/>
+      <i><u>Research topics</u></i>: Focused Crawling tasks with Reinforcement Learning (RL) <br/>
       - Supervised by <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">Dr. George Giannakopoulos</a>
     </td>
   </tr>

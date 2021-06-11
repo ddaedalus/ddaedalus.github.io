@@ -62,16 +62,17 @@ redirect_from:
   </tr>
   <tr>
     <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img src="../images/UNIPI.jpg"></a></td>
-    <td><b>University of Pireaus"</b>, Artificial Intelligence Laboratory, Greece <br/>
+    <td><b>University of Pireaus</b>, Artificial Intelligence Laboratory, Greece <br/>
       Jun 2021 - Present: <i><b>Research Assistant</b></i> <br/>
       <i><u>Duties</u></i>: Research on Explainable Reinforcement Learning <br/>
     </td>
   </tr>
     <tr>
     <td><a href="https://www.iit.demokritos.gr/" target="_blank"><img src="../images/demokritos-ncsr-logo.png"></a></td>
-    <td><b>National Center for Scientific Research "Demokritos"</b>, Institute of Informatics & Telecommunications, Greece <br/>
+    <td><b>National Center for Scientific Research "Demokritos"</b>, Software and Knowledge Engineering Lab, Greece <br/>
       Mar 2020 - Feb 2021: <i><b>Undergraduate Research Assistant</b></i> <br/>
       <i><u>Duties</u></i>: Research on Focused Crawling tasks with Reinforcement Learning <br/>
+      - Supervised by <a href="https://users.iit.demokritos.gr/~ggianna/" target="_blank">Dr. George Giannakopoulos</a>
     </td>
   </tr>
 </table>
@@ -90,7 +91,7 @@ redirect_from:
 Skills
 ------
 * Programming Languages: Python, Java, Prolog, C/C++, SML, SQL
-* Machine Learning: Tensorflow 2.x, Keras, Sklearn, PyTorch
+* Machine Learning: Tensorflow, Keras, Sklearn
 
 Languages
 ------

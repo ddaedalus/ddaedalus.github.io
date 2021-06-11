@@ -82,6 +82,21 @@ redirect_from:
 <hr>
 
 <table>
+  <tr>
+    <th colspan=2> Teaching Experience </th>
+  </tr>
+  <tr>
+    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
+    <td><b>National Technical University of Athens</b>, School of ECE, Greece <br/>
+      Oct 2016 - Feb 2019: <i><b>Undergraduate Teaching Assistant</b></i> <br/>
+      - <a href="https://www.ece.ntua.gr/en/undergraduate/courses/3020" target="_blank">Computer Programming</a> (3.4.3020.1) </br>
+      - <a href="https://www.ece.ntua.gr/en/undergraduate/courses/3138" target="_blank">Programming Techniques</a> (3.4.3138.2)
+    </td>
+  </tr>
+</table>
+
+<hr>
+<table>
   <tr><th> Talks and Presentations </th></tr>
    {% for post in site.talks %}
     <tr><td>{% include archive-single-cv.html %}</td></tr>

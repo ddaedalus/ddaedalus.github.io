@@ -65,7 +65,7 @@ redirect_from:
     <td><b>University of Pireaus</b>, Artificial Intelligence Laboratory, Greece <br/>
       Jun 2021 - Present: <i><b>Research Assistant</b></i> <br/>
       <i><u>Research topics</u></i>: Explainable Reinforcement Learning (XRL) <br/>
-      <br>- Working on <a href="http://datacron1.ds.unipi.gr:9083/ai-lab/projects/tapas-towards-an-automated-and-explainable-atm-system/" target="_blank">TAPAS</a> project </br>
+      - Working on <a href="http://datacron1.ds.unipi.gr:9083/ai-lab/projects/tapas-towards-an-automated-and-explainable-atm-system/" target="_blank">TAPAS</a> project <br>
       - Supervised by <a href="https://www.semanticscholar.org/author/G.-Vouros/1680125" target="_blank">Prof. George Vouros</a>
     </td>
   </tr>
@@ -89,8 +89,9 @@ redirect_from:
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
     <td><b>National Technical University of Athens</b>, School of ECE, Greece <br/>
       Oct 2016 - Feb 2019: <i><b>Undergraduate Teaching Assistant</b></i> <br/>
-      - <a href="https://www.ece.ntua.gr/en/undergraduate/courses/3020" target="_blank">Computer Programming</a> (3.4.3020.1) </br>
-      - <a href="https://www.ece.ntua.gr/en/undergraduate/courses/3138" target="_blank">Programming Techniques</a> (3.4.3138.2)
+      <i><u>Courses</u></i>: 
+      <a href="https://www.ece.ntua.gr/en/undergraduate/courses/3020" target="_blank">Computer Programming</a> (3.4.3020.1), 
+      <a href="https://www.ece.ntua.gr/en/undergraduate/courses/3138" target="_blank">Programming Techniques</a> (3.4.3138.2)
     </td>
   </tr>
 </table>

@@ -61,7 +61,7 @@ redirect_from:
     <th colspan=2> Research Experience </th>
   </tr>
   <tr>
-    <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img src="../images/UNIPI.png"></a></td>
+    <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img src="../images/UNIPI.jpg"></a></td>
     <td><b>University of Pireaus"</b>, Artificial Intelligence Laboratory, Greece <br/>
       Jun 2021 - Present: <i><b>Research Assistant</b></i> <br/>
       <i><u>Duties</u></i>: Research on Explainable Reinforcement Learning <br/>

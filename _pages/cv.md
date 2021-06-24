@@ -82,10 +82,9 @@ redirect_from:
 
 <hr>
 
+Teaching Experience
+------
 <table>
-  <tr>
-    <th colspan=2> Teaching Experience </th>
-  </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
     <td><b>National Technical University of Athens</b>, School of ECE, Greece <br/>
@@ -96,8 +95,6 @@ redirect_from:
     </td>
   </tr>
 </table>
-
-
 
 
 Skills

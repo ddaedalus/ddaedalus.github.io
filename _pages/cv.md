@@ -38,10 +38,9 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+------
 <table>
-  <tr>
-    <th colspan=2> Education </th>
-  </tr>
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
     <td><b>National Technical University of Athens</b> <br/>
@@ -54,13 +53,11 @@ redirect_from:
     </td>
   </tr>
 </table>
-
 <hr>
 
+Research Experience
+------
 <table>
-  <tr>
-    <th colspan=2> Research Experience </th>
-  </tr>
   <tr>
     <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img src="../images/UNIPI.jpg"></a></td>
     <td><b>University of Pireaus</b>, Artificial Intelligence Laboratory, Greece <br/>

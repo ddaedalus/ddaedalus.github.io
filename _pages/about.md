@@ -23,5 +23,5 @@ You may also catch me at <a href="https://ai.stackexchange.com/users/36055/ddaed
 * 23/6 **Paper Accepted**: Our paper "A Personalized Machine-Learning-enabled Method for Efficient Research in Ethnopharmacology. The case of Southern Balkans and Coastal zone of Asia Minor" has been accepted at Applied Sciences! (https://www.mdpi.com/2076-3417/11/13/5826/pdf)[pdf] 
 * 12/3 **Excellent Thesis Defence**: I defended my M.Eng. thesis "Focused Crawling Ethnopharmacological References with Active and Reinforcement Learning"
 
-### 2020**
+### 2020
 * 21/11 **Presentation**: I am giving a virtual oral presention of our work "A Personalized Artificial-Intelligence-enabled Method for Efficient Research in Ethnopharmacology" at FOSSCOMM 2020!(https://www.youtube.com/watch?v=fKs8cLw45IM&t=1006s&ab_channel=EvangelosAxiotis)[video]

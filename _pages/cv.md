@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,15 +30,6 @@ redirect_from:
     margin-left: auto;
     margin-right: auto;
     width: 120px;
-    min-width: 45px;
-    height: auto;
-  }
-  
-  img2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 110px;
     min-width: 45px;
     height: auto;
   }
@@ -107,23 +98,7 @@ redirect_from:
 </table>
 
 
-<!-- <hr>
-<table>
-  <tr><th> Publications </th></tr>
-   {% for post in site.publications %}
-    <tr><td>{% include archive-single-cv.html %}</td></tr>
-  {% endfor %}
-</table>
-<hr>
 
-<hr>
-<table>
-  <tr><th> Talks and Presentations </th></tr>
-   {% for post in site.talks %}
-    <tr><td>{% include archive-single-cv.html %}</td></tr>
-  {% endfor %}
-</table>
-<hr> -->
 
 Skills
 ------

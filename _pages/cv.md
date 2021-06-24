@@ -33,6 +33,16 @@ redirect_from:
     min-width: 45px;
     height: auto;
   }
+  
+    img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 110px;
+    min-width: 45px;
+    height: auto;
+  }
+  
 </style>
 
 {% include base_path %}
@@ -61,7 +71,7 @@ redirect_from:
     <th colspan=2> Research Experience </th>
   </tr>
   <tr>
-    <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img src="../images/UNIPI.jpg"></a></td>
+    <td><a href="http://datacron1.ds.unipi.gr:9083/ai-lab/" target="_blank"><img2 src="../images/UNIPI.jpg"></a></td>
     <td><b>University of Pireaus</b>, Artificial Intelligence Laboratory, Greece <br/>
       Jun 2021 - Present: <i><b>Research Assistant</b></i> <br/>
       <i><u>Research topics</u></i>: Explainable Reinforcement Learning (XRL) <br/>
@@ -97,7 +107,7 @@ redirect_from:
 </table>
 
 
-<hr>
+<!-- <hr>
 <table>
   <tr><th> Publications </th></tr>
    {% for post in site.publications %}
@@ -113,7 +123,7 @@ redirect_from:
     <tr><td>{% include archive-single-cv.html %}</td></tr>
   {% endfor %}
 </table>
-<hr>
+<hr> -->
 
 Skills
 ------

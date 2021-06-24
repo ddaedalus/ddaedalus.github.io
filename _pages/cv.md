@@ -96,6 +96,16 @@ redirect_from:
   </tr>
 </table>
 
+
+<hr>
+<table>
+  <tr><th> Publications </th></tr>
+   {% for post in site.publications %}
+    <tr><td>{% include archive-single-cv.html %}</td></tr>
+  {% endfor %}
+</table>
+<hr>
+
 <hr>
 <table>
   <tr><th> Talks and Presentations </th></tr>
@@ -103,7 +113,6 @@ redirect_from:
     <tr><td>{% include archive-single-cv.html %}</td></tr>
   {% endfor %}
 </table>
-
 <hr>
 
 Skills

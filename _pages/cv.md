@@ -14,11 +14,11 @@ redirect_from:
   }
   
   th {
-    font-size: 15px;
+    font-size: 25px;
   }
   
   td{
-    padding: 3.5em;
+    padding: 1.5em;
   }
   
   td, th {

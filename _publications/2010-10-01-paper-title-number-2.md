@@ -1,8 +1,6 @@
 ---
 title: "A Personalized Machine-Learning-enabled Method for Efficient Research in Ethnopharmacology. The case of Southern Balkans and Coastal zone of Asia Minor"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-06-23
 venue: 'Applied Sciences'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'

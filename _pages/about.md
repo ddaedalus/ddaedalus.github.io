@@ -13,7 +13,7 @@ I am a Machine Learning researcher having a M.Eng. in Electrical & Computer Engi
 
 Currently, I am a Research Assistant at University of Pireaus (UPRC), working on Explainable Reinforcement Learning (XRL). My research focuses on how we can utilize  Decision Trees for mimicing the learned policy of an RL agent towards inferring the state feature importance. 
 
-In general, my research interests include *Reinforcement Learning*, *Imitation Learning*, *Active Learning*, *Decision Making Under Uncertainty* and *Bayesian Inference*. 
+In general, my research interests include *Reinforcement Learning*, *Imitation Learning*, *Active Learning*, *Decision Making Under Uncertainty* and *Bayesian Inference*. The full version of my Curriculum Vitae can be found [here]("../files/cv_kontogiannis_andreas_ (1).pdf").
 
 You may also catch me at <a href="https://ai.stackexchange.com/users/36055/ddaedalus">Artificial Intelligence Stack Exchange</a>, where I often share my ideas with fellow AI enthusiasts. Besides research, I love playing basketball, soccer and my guitar.
 

@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "A Personalized Machine-Learning-enabled Method for Efficient Research in Ethnopharmacology. The case of Southern Balkans and Coastal zone of Asia Minor"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2021-06-23
+venue: 'Applied Sciences'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Axiotis, E.;Kontogiannis, A.; Kalpoutzakis, E.; Giannakopoulos, G. (2010). A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology.  The Case of the Southern Balkans and the Coastal Zone of Asia Minor.  Appl.  Sci.  2021, 11, 5826.  https://doi.org/10.3390/app11135826'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Axiotis, E.;Kontogiannis, A.; Kalpoutzakis, E.; Giannakopoulos, G. (2010). A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology.  The Case of the Southern Balkans and the Coastal Zone of Asia Minor.  Appl.  Sci.  2021, 11, 5826.  https://doi.org/10.3390/app11135826

@@ -4,7 +4,6 @@ collection: publications
 date: 2021-06-23
 venue: 'Applied Sciences'
 permalink: /publication/2021-05-23-paper-applied-sciences
-paperurl: 'https://www.mdpi.com/2076-3417/11/13/5826'
 ---
 
 ### Recommended citation

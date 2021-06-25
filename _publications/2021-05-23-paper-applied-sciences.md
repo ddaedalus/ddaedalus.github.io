@@ -9,7 +9,7 @@ paperurl: 'https://www.mdpi.com/2076-3417/11/13/5826'
 
 ### Recommended citation
 
-Axiotis, E.; **Kontogiannis, A.**; Kalpoutzakis, E.; Giannakopoulos, G. (2010). A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology.  The Case of the Southern Balkans and the Coastal Zone of Asia Minor.  Appl.  Sci.  2021, 11, 5826.  https://doi.org/10.3390/app11135826  
+Axiotis, E.; **Kontogiannis, A.**; Kalpoutzakis, E.; Giannakopoulos, G. A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology.  The Case of the Southern Balkans and the Coastal Zone of Asia Minor.  Appl.  Sci.  2021, 11, 5826.  https://doi.org/10.3390/app11135826  
 
 ### Abstract  
 

@@ -64,7 +64,7 @@ Research Experience
       Jun 2021 - Present: <i><b>Research Assistant</b></i> <br/>
       <i><u>Research topics</u></i>: Explainable Reinforcement Learning (XRL) <br/>
       - Working on <a href="http://datacron1.ds.unipi.gr:9083/ai-lab/projects/tapas-towards-an-automated-and-explainable-atm-system/" target="_blank">TAPAS</a> project <br>
-      - Supervised by <a href="https://www.semanticscholar.org/author/G.-Vouros/1680125" target="_blank">Prof. George Vouros</a>
+      - Supervised by <a href="https://scholar.google.com/citations?hl=en&user=PBX9aQUAAAAJ" target="_blank">Prof. George Vouros</a>
     </td>
   </tr>
     <tr>

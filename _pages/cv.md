@@ -45,7 +45,7 @@ Education
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
     <td><b>National Technical University of Athens</b> <br/>
       <i>M.Sc.</i> in <i>Data Science and Machine Learning</i> <br/>
-      2015 - 2021  <br/>
+      2021 - Present  <br/>
     </td>
   </tr>
   <tr>

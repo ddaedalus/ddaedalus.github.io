@@ -44,7 +44,14 @@ Education
   <tr>
     <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
     <td><b>National Technical University of Athens</b> <br/>
-      <i>B.Sc - M.Eng</i> in <i>Electrical & Computer Engineering</i> <br/>
+      <i>M.Sc.</i> in <i>Data Science and Machine Learning</i> <br/>
+      2015 - 2021  <br/>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ece.ntua.gr/en" target="_blank"><img src="../images/pyrforos.png"></a></td>
+    <td><b>National Technical University of Athens</b> <br/>
+      <i>B.Sc - M.Eng.</i> in <i>Electrical & Computer Engineering</i> <br/>
       2015 - 2021  <br/>
       <i>Major</i>: Computer Science <br/>
       <i>GPA</i>: 8.11 / 10.00 <br/>

@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Machine Learning researcher having a M.Eng. in Electrical & Computer Engineering from National Technical University of Athens (NTUA). In my thesis, I was investigating how Active Learning (AL), utilizing the user feedback, and Reinforcement Learning (RL) could be combined towards more efficient and adaptive focused crawling. 
 
-Currently, I am a Research Assistant at University of Pireaus (UPRC), working on Explainable Reinforcement Learning (XRL). My research focuses on how we can utilize  Decision Trees for learning the policy of an RL agent towards providing explainability and extracting rules for typical examples of the agent behavior. Also, I am an incoming M.Sc. student in Data Science and Machine Learning at National Technical University of Athens (NTUA).
+Currently, I am a Research Assistant at University of Pireaus (UPRC), working on Explainable Reinforcement Learning (XRL). My research focuses on how we can utilize  Decision Trees for online learning the policy of a model-free RL agent towards providing high play performance and explainability in a parallel manner. Also, I am an incoming M.Sc. student in Data Science and Machine Learning at National Technical University of Athens (NTUA).
 
 In general, my research interests include *Reinforcement Learning*, *Imitation Learning*, *Active Learning*, *Decision Making Under Uncertainty* and *Bayesian Inference*. The full version of my Curriculum Vitae can be found [here](https://github.com/ddaedalus/ddaedalus.github.io/blob/master/files/cv_kontogiannis_andreas_%20(1).pdf).
 

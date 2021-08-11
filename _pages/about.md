@@ -13,7 +13,7 @@ I am a Machine Learning researcher having a *M.Eng. in Electrical & Computer Eng
 
 Currently, I am a *Research Assistant* at University of Pireaus (UPRC), working on Explainable Reinforcement Learning (XRL). My research focuses on how we can utilize  Decision Trees for online policy learning of a model-free RL agent, towards providing high play performance and explainability in a parallel manner. Also, I am an incoming *M.Sc. student in Data Science and Machine Learning* at National Technical University of Athens (NTUA).
 
-In general, my research interests include *Reinforcement Learning*, *Imitation Learning*, *Active Learning*, *Decision Making Under Uncertainty* and *Bayesian Inference*. The full version of my Curriculum Vitae can be found [here](https://github.com/ddaedalus/ddaedalus.github.io/blob/master/files/cv_kontogiannis_andreas_%20(1).pdf).
+In general, my research interests include *Reinforcement Learning*, *Imitation Learning*, *Active Learning*, *Decision Making Under Uncertainty* and *Bayesian Inference*. The full version of my Curriculum Vitae can be found [here](https://github.com/ddaedalus/ddaedalus.github.io/blob/master/files/cv_kontogiannis_andreas_.pdf).
 
 You may also catch me at <a href="https://ai.stackexchange.com/users/36055/ddaedalus">Artificial Intelligence Stack Exchange</a>, where I often share my ideas with fellow AI enthusiasts. Besides research, I love playing basketball, soccer and my guitar.
 

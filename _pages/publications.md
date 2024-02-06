@@ -2,6 +2,7 @@
 permalink: /publications_/
 title: ""
 author_profile: true
+excerpt: "Publications"
 redirect_from: 
   - /publications
   - /publications.md

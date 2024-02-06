@@ -26,3 +26,13 @@ Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints 
 (with Nikolas Patris, Stelios Stavroulakis, Fivos Kalogiannis and Rose Zhang). <br/>
 _<font color="red">AAAI 2024</font>_ [[Link soon](https://panageas.github.io)] <br/>
 <br/>
+
+2021
+======
+<br/>
+<i> A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology. The Case of the Southern Balkans and the Coastal Zone of Asia Minor </i> 
+<br/> 
+E. Axiotis<sup>*</sup>, <u>A. Kontogiannis</u>, E. Kalpoutzakis and G. Giannakopoulos.
+<br/>
+_<font color="red">Planta Medica</font>_ [[doi](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0041-1736771)] <br/>
+<br/>

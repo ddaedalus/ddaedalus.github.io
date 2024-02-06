@@ -28,7 +28,7 @@ _<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arx
 <br/> 
 <u>A. Kontogiannis</u> and G. Vouros.
 <br/>
-_<font color="red">EXTRAAMAS 2023</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)] <br/>
+_<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)] <br/>
 <br/>
 
 

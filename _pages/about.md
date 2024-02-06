@@ -9,19 +9,13 @@ redirect_from:
 ---
 ## About me
 
-I am a Machine Learning researcher having a *M.Eng. in Electrical & Computer Engineering* from National Technical University of Athens (NTUA). In my thesis, I was investigating how Active Learning (AL), utilizing the user feedback, and Reinforcement Learning (RL) could be combined towards more efficient and adaptive focused crawling. 
+I am a PhD candidate jointly at the [School of Electrical and Computer Engineering (ECE)](https://www.ece.ntua.gr/en) of the [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/) and [Archimedes Research Unit](https://archimedesai.gr/en/), where I am very fortunate to be advised by [Prof. Ioannis Panageas](https://panageas.github.io/)(UC Irvine) and [Prof. Aris Pagourtzis](https://www.ece.ntua.gr/en/staff/79) (NTUA, [CoReLab](https://corelab.ntua.gr/index.html)). Previously, I obtained an [M.Sc. in Data Science and Machine Learning](https://dsml.ece.ntua.gr/en) and a joint B.Sc.-M.Eng degree in [ECE](https://www.ece.ntua.gr/en/undergraduate/info) - with major in Computer Science - all from NTUA. Concurrently to master studies, I had been an Applied Scientist intern (Level 4) at [Amazon](https://www.amazon.science/) in Barcelona.
 
-Currently, I am a *Research Assistant* at University of Pireaus (UPRC), working on Explainable Reinforcement Learning (XRL). My research focuses on how we can utilize  Decision Trees for online policy learning of a model-free RL agent, towards providing high play performance and explainability in a parallel manner. Also, I am an incoming *M.Sc. student in Data Science and Machine Learning* at National Technical University of Athens (NTUA).
+Here are my [Google Scholar](https://scholar.google.nl/citations?hl=en&user=nBFso2IAAAAJ), [dblp](https://dblp.org/pid/309/6039.html) and [LinkedIn](https://www.linkedin.com/in/andreas-kontogiannis-2405a3176/) profiles. My Curriculum Vitae (CV) can be found [here](https://github.com/ddaedalus/ddaedalus.github.io/blob/master/files/cv_kontogiannis_andreas_.pdf).
 
-In general, my research interests include *Reinforcement Learning*, *Imitation Learning*, *Active Learning*, *Decision Making Under Uncertainty* and *Bayesian Inference*. The full version of my Curriculum Vitae can be found [here](https://github.com/ddaedalus/ddaedalus.github.io/blob/master/files/cv_kontogiannis_andreas_.pdf).
+## Research Interests
 
-You may also catch me at <a href="https://ai.stackexchange.com/users/36055/ddaedalus">Artificial Intelligence Stack Exchange</a>, where I often share my ideas with fellow AI enthusiasts. Besides research, I love playing basketball, soccer and my guitar.
-
-## News Feed
-
-### 2021
-* 21/12. **Paper Preprint**: Our paper *"Tree-based Focused Web Crawling with Reinforcement Learning"* is now available on arXiv!
-* 21/7. **Status Change**: From September 2021, I will be an M.Sc. Student in *Data Science and Machine Learning* at NTUA!
-* 23/6. **Paper Accepted**: Our paper *"A Personalized Machine-Learning-enabled Method for Efficient Research in Ethnopharmacology. The case of Southern Balkans and Coastal zone of Asia Minor"* has been accepted at Applied Sciences! [[pdf]](https://www.mdpi.com/2076-3417/11/13/5826/pdf)
-* 12/5. **Status Change**: I am delighted to announce that I will join UPRC AI Laboratory as a part-time Research Assistant, where I will be supervised by Prof. George Vouros!
-* 12/3. **Excellent Thesis Defense**: I defended my M.Eng. thesis *"Focused Crawling Ethnopharmacological References with Active and Reinforcement Learning"*!
+In general, I am interested in the following research areas: 
+* The intersection of theoretical reinforcement learning (RL), optimization and game theory
+* The computational complexity of optimization problems
+* Deep Multi-Agent Reinforcement Learning focused on agent modelling, coordinated exploration, safety and relative overgeneralization

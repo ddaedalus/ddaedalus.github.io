@@ -13,7 +13,7 @@ redirect_from:
 <br/>
 <i><b> Tree-based Focused Web Crawling with Reinforcement Learning </b> </i> 
 <br/> 
-<u>A. Kontogiannis</u>, D. Kelesis, V. Pollatos, G. Giannakopoulos and G. Paliouras.
+<u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Giannakopoulos and G. Paliouras.
 <br/>
 _<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arxiv.org/abs/2112.07620)] <br/>
 <br/>
@@ -23,7 +23,7 @@ _<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arx
 <br/>
 <i><b> Inherently Interpretable Deep Reinforcement Learning through Mimicking </b> </i> 
 <br/> 
-<u>A. Kontogiannis</u> and G. Vouros.
+<u>A. Kontogiannis</u><sup>*</sup> and G. Vouros.
 <br/>
 _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)] <br/>
 <br/>

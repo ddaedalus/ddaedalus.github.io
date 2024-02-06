@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Andreas Kontogiannis"
   avatar           : "fb2.jpg"
-  bio              : "Research Assistant at UPRC | M.Eng. in ECE NTUA"
-  location         : "Melissia, Attica, Greece"
+  bio              : "PhD candidate at NTUA & Archimedes RU"
+  location         : "Athens, Greece"
   employer         : # "Behavioral Signals"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7sO3ojcwE0L0mN87_RKKQz7kSWlUyPecB-rTC6IiHgfm2FrdLAiavTyf_lQsbUTxo2FRmH8uQ4BCVMEQfyzh7TUH-hog&user=nBFso2IAAAAJ"
@@ -106,7 +106,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 13485850/ddaedalus
+  stackoverflow    : # 13485850/ddaedalus
   uri              :
   steam            :
   tumblr           :

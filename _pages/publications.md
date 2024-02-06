@@ -8,8 +8,7 @@ redirect_from:
   - /publications.md
 ---
 
-2024
-======
+### 2024
 
 <br/>
 <i><b> Tree-based Focused Web Crawling with Reinforcement Learning </b> </i> 
@@ -19,9 +18,7 @@ redirect_from:
 _<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arxiv.org/abs/2112.07620)] <br/>
 <br/>
 
-
-2023
-======
+### 2023
 
 <br/>
 <i><b> Inherently Interpretable Deep Reinforcement Learning through Mimicking </b> </i> 
@@ -31,10 +28,7 @@ _<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arx
 _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)] <br/>
 <br/>
 
-
-
-2021
-======
+### 2021
 
 <br/>
 <i><b> A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology. The Case of the Southern Balkans and the Coastal Zone of Asia Minor. </b> </i> 

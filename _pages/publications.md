@@ -8,7 +8,7 @@ redirect_from:
   - /publications.md
 ---
 
-### 2024
+### - 2024
 
 <br/>
 <i><b> Tree-based Focused Web Crawling with Reinforcement Learning </b> </i> 

@@ -12,7 +12,14 @@ I am a PhD candidate enrolled jointly at the [School of Electrical and Computer 
 
 Prior to pursuing my PhD, I obtained an [M.Sc. in Data Science and Machine Learning](https://dsml.ece.ntua.gr/en), as well as a joint [B.Sc.-M.Eng. degree in ECE](https://www.ece.ntua.gr/en/undergraduate/info) with a major in Computer Science, all from NTUA. During my master's studies, I worked as an Applied Scientist intern (Level 4) at [Amazon](https://www.amazon.science/) in Barcelona. Before my time at Amazon, I was a research assistant at the Institute of Informatics & Telecommunications ([IIT](https://www.iit.demokritos.gr/el/about-the-institute/)) of [NCSR Demokritos](https://www.demokritos.gr/).
 
-Here are my [Google Scholar](https://scholar.google.nl/citations?hl=en&user=nBFso2IAAAAJ), [dblp](https://dblp.org/pid/309/6039.html) and [LinkedIn](https://www.linkedin.com/in/andreas-kontogiannis-2405a3176/) profiles. My updated CV can be found <a href="https://drive.google.com/file/d/1ptZrWxJjxShFi62Lxhz86tlT9FTtOX3X/view?usp=sharing">here (PDF)</a>.
+Here are my [Google Scholar](https://scholar.google.nl/citations?hl=en&user=nBFso2IAAAAJ), [dblp](https://dblp.org/pid/309/6039.html) and [LinkedIn](https://www.linkedin.com/in/andreas-kontogiannis-2405a3176/) profiles.
+
+<div style="background-color: green; color: white; display: inline-block; padding: 5px 10px; border-radius: 3px;">
+    <a href="https://drive.google.com/file/d/1ptZrWxJjxShFi62Lxhz86tlT9FTtOX3X/view?usp=sharing">CV</a>
+</div>
+
+
+My updated CV can be found <a href="https://drive.google.com/file/d/1ptZrWxJjxShFi62Lxhz86tlT9FTtOX3X/view?usp=sharing">here (PDF)</a>.
 
 ## Research Interests
 
@@ -22,5 +29,5 @@ In general, I am interested in the following research areas:
 * Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration, safety and relative overgeneralization
 
 ## Academic Service
-* Reviewing: ICLR (2024), ICML (2024)
+* Reviewing: **ICLR** (2024)
 

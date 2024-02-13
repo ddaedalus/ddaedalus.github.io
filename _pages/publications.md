@@ -36,7 +36,7 @@ _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link
     deep RL
 </div>
 <div style="background-color: Dark Blue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
-    deep RL
+    explainable RL
 </div>
 <div style="background-color: Purple; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
     MARL

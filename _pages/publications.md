@@ -37,8 +37,7 @@ _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link
 E. Axiotis<sup>*</sup>, <u>A. Kontogiannis</u>, E. Kalpoutzakis and G. Giannakopoulos.
 <br/>
 _<font color="red">Applied Sciences</font>_ [[paper](https://www.mdpi.com/2076-3417/11/13/5826)] <br/>
-<br/>
-<div style="background-color: blue; color: white; display: inline-block; padding: 5px 10px; border-radius: 3px;">
+<div style="background-color: blue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
     Algorithms
 </div>
 

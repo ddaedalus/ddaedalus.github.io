@@ -14,7 +14,7 @@ redirect_from:
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Giannakopoulos and G. Paliouras.
 <br/>
-<font color="red">Submitted for publication (2024)</font> [[paper](https://arxiv.org/abs/2112.07620)] <br/>
+_<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arxiv.org/abs/2112.07620)] <br/>
 <br/>
 
 ## - 2023
@@ -24,7 +24,7 @@ redirect_from:
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup> and G. Vouros.
 <br/>
-<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font> [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)] <br/>
+_<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)] <br/>
 <br/>
 
 ## - 2021
@@ -34,6 +34,6 @@ redirect_from:
 <br/> 
 E. Axiotis<sup>*</sup>, <u>A. Kontogiannis</u>, E. Kalpoutzakis and G. Giannakopoulos.
 <br/>
-<font color="red">Applied Sciences</font> [[paper](https://www.mdpi.com/2076-3417/11/13/5826)] <br/>
+_<font color="red">Applied Sciences</font>_ [[paper](https://www.mdpi.com/2076-3417/11/13/5826)] <br/>
 <br/>
 

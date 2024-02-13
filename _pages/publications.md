@@ -37,11 +37,3 @@ E. Axiotis<sup>*</sup>, <u>A. Kontogiannis</u>, E. Kalpoutzakis and G. Giannakop
 <br/>
 _<font color="red">Applied Sciences</font>_ [[paper](https://www.mdpi.com/2076-3417/11/13/5826)] <br/>
 <br/>
-
-<br/>
-<i><b> Artificial Intelligence in the Deployment of Complex tasks in Pharmacology. A case of “Big Data” challenges in Ethnopharmacology </b> </i> 
-<br/> 
-E. Axiotis<sup>*</sup>, <u>A. Kontogiannis</u>, E. Kalpoutzakis and G. Giannakopoulos.
-<br/>
-_<font color="red">Planta Medica</font>_ [[paper](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0041-1736771)] <br/>
-<br/>

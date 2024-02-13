@@ -17,7 +17,12 @@ redirect_from:
 <u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Giannakopoulos and G. Paliouras.
 <br/>
 _<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arxiv.org/abs/2112.07620)] <br/>
-<br/>
+<div style="background-color: grey; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
+    web
+</div>
+<div style="background-color: Blue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
+    deep RL
+</div>
 
 ## - 2023
 
@@ -27,7 +32,12 @@ _<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arx
 <u>A. Kontogiannis</u><sup>*</sup> and G. Vouros.
 <br/>
 _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)] <br/>
-<br/>
+<div style="background-color: Blue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
+    deep RL
+</div>
+<div style="background-color: Purple; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
+    MARL
+</div>
 
 ## - 2021
 
@@ -37,7 +47,7 @@ _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link
 E. Axiotis<sup>*</sup>, <u>A. Kontogiannis</u>, E. Kalpoutzakis and G. Giannakopoulos.
 <br/>
 _<font color="red">Applied Sciences</font>_ [[paper](https://www.mdpi.com/2076-3417/11/13/5826)] <br/>
-<div style="background-color: blue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
-    Algorithms
+<div style="background-color: Yellow; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
+    applied AI
 </div>
 

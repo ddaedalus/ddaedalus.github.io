@@ -35,7 +35,7 @@ _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link
 <div style="background-color: Blue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
     deep RL
 </div>
-<div style="background-color: Dark Blue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
+<div style="background-color: lightblue; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">
     explainable RL
 </div>
 <div style="background-color: Purple; color: white; display: inline-block; padding: 4px 8px; border-radius: 2px;">

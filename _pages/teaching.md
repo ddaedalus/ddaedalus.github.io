@@ -2,7 +2,6 @@
 permalink: /teaching_/
 title: ""
 author_profile: true
-excerpt: "Teaching"
 redirect_from: 
   - /teaching
   - /teaching.md

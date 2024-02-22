@@ -22,5 +22,5 @@ In general, I am interested in the following research areas:
 * Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration, safety and relative overgeneralization
 
 ## Academic Service
-* Reviewing: **ICLR** (2024)
+* Reviewing: **ICML** (2024), **ICLR** (2024)
 

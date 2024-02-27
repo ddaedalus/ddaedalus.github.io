@@ -19,7 +19,7 @@ Here are my [Google Scholar](https://scholar.google.nl/citations?hl=en&user=nBFs
 In general, I am interested in the following research areas: 
 * The intersection of theoretical reinforcement learning (RL), optimization and game theory
 * The computational complexity of optimization problems
-* Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration, safety and relative overgeneralization
+* Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration and relative overgeneralization
 
 ## Academic Service
 * Reviewing: **ICML** (2024), **ICLR** (2024)

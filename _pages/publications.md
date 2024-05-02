@@ -16,7 +16,7 @@ redirect_from:
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis and I. Panageas.
 <br/>
-_<font color="red">International Conference of Machine Learning (ICML 2024)</font>_
+_<font color="red">International Conference on Machine Learning (ICML 2024)</font>_
 
 
 <br/>

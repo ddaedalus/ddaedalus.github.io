@@ -12,6 +12,14 @@ redirect_from:
 ## - 2024
 
 <br/>
+<i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis and I. Panageas.
+<br/>
+_<font color="red">International Conference of Machine Learning (ICML 2024)</font>_
+
+
+<br/>
 <i><b> Tree-based Focused Web Crawling with Reinforcement Learning </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Giannakopoulos and G. Paliouras.

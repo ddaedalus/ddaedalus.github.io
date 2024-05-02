@@ -21,6 +21,10 @@ In general, I am interested in the following research areas:
 * The computational complexity of optimization problems
 * Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration and relative overgeneralization
 
+## Recent News
+- 2024.05: One paper got accepted at ICML 2024.
+- 2023.05: One paper got accepted at EXTRAAMAS 2023 (AAMAS Workshop).
+
 ## Academic Service
 * Reviewing: **ICML** (2024), **ICLR** (2024)
 

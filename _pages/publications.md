@@ -15,7 +15,7 @@ redirect_from:
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
 <br/>
-_<font color="red">Currently Under Review</font>_
+_<font color="red">Submitted for publication (2024)</font>_
 
 
 <br/>

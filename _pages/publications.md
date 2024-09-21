@@ -10,6 +10,13 @@ redirect_from:
 # Publications
 
 ## - 2024
+<br/>
+<i><b> State Modelling for Policy Enhancement through Adversarial Exploration in Cooperative Multi-Agent Reinforcement Learning </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
+<br/>
+_<font color="red">Currently Under Review</font>_
+
 
 <br/>
 <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 

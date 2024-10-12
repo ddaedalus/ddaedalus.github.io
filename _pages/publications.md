@@ -20,7 +20,7 @@ _<font color="red">Submitted for publication.</font>_
 <br/>
 <i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
 <br/> 
-<u>G. Papadopoulos<sup>*</sup>, A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.
+G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.
 <br/>
 _<font color="red">Submitted for publication.</font>_
 

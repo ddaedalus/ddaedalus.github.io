@@ -9,14 +9,22 @@ redirect_from:
 
 # Publications
 
-## - 2024
+## - 2025
 <br/>
 <i><b> State Modelling for Policy Enhancement through Adversarial Exploration in Cooperative Multi-Agent Reinforcement Learning </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
 <br/>
-_<font color="red">Submitted for publication (2024)</font>_
+_<font color="red">Submitted for publication.</font>_
 
+<br/>
+<i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
+<br/> 
+<u>G. Papadopoulos<sup>*</sup>, A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.
+<br/>
+_<font color="red">Submitted for publication.</font>_
+
+## - 2024
 
 <br/>
 <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 

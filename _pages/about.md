@@ -22,8 +22,9 @@ In general, I am interested in the following research areas:
 * Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration and relative overgeneralization
 
 ## Recent News
-- 2024.05: One paper got accepted at ICML 2024.
-- 2023.05: One paper got accepted at EXTRAAMAS 2023 (AAMAS Workshop).
+- 2024.12: One paper accepted at AAMAS 2025
+- 2024.05: One paper accepted at ICML 2024.
+- 2023.05: One paper accepted at EXTRAAMAS 2023 (AAMAS Workshop).
 
 ## Academic Service
 * Reviewing: **Journal of the ACM**, **NeurIPS** (2024), **ICML** (2024, 2025), **ICLR** (2024, 2025), **AISTATS** (2025)

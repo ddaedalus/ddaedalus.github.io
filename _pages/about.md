@@ -20,6 +20,7 @@ In general, I am interested in the intersection of game theory, online learning 
 * Convergence to equilibria in structured games (e.g., games with large action spaces, potential games)
 * Bandit theory (e.g., combinatorial and linear bandits)
 * Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration and partial observability
+
 ## Recent News
 - 2024.12: One paper accepted at AAMAS 2025.
 - 2024.05: One paper accepted at ICML 2024.

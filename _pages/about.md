@@ -27,5 +27,5 @@ In general, I am interested in the intersection of game theory, online learning 
 - 2023.05: One paper accepted at EXTRAAMAS 2023 (AAMAS Workshop).
 
 ## Academic Service
-* Reviewing: **Journal of the ACM**, **NeurIPS** (2024), **ICML** (2024, 2025), **ICLR** (2024, 2025), **AISTATS** (2025)
+* Reviewing: **Journal of the ACM**, **NeurIPS** (2024), **ICML** (2025, 2024), **ICLR** (2025, 2024), **AISTATS** (2025)
 

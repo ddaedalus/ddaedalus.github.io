@@ -11,7 +11,7 @@ redirect_from:
 
 ## - 2025
 <br/>
-<i><b> State Modelling for Policy Enhancement through Adversarial Exploration in Cooperative Multi-Agent Reinforcement Learning </b> </i> 
+<i><b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration  </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
 <br/>

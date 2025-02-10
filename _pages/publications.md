@@ -22,7 +22,7 @@ _<font color="red">Submitted for publication.</font>_
 <br/> 
 G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.
 <br/>
-_<font color="red">International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</font>_
+_<font color="red">International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</font>_ [[paper](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ)]
 
 ## - 2024
 

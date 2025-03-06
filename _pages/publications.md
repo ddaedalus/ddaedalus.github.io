@@ -9,7 +9,7 @@ redirect_from:
 
 # Publications
 
-## Theory
+## Game Theory / Online Learning / Complexity
 
 <br/>
 (2025) <i><b> Fast and Efficient Learning in Combinatorial Games beyond Full Information: A Kernelization-based Approach </b> </i> 

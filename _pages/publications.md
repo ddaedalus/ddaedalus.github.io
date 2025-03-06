@@ -9,53 +9,70 @@ redirect_from:
 
 # Publications
 
-## - 2025
+## Theory
+
 <br/>
-<i><b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration  </b> </i> 
+(2025) <i><b> Fast and Efficient Learning in Combinatorial Games beyond Full Information: A Kernelization-based Approach </b> </i> 
 <br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
+<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos and I. Panageas.
 <br/>
 _<font color="red">Submitted for publication.</font>_
 
 <br/>
-<i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
+(2025) <i><b> Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
 <br/> 
-G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.
+<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos and I. Panageas.
 <br/>
-_<font color="red">International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</font>_ [[paper](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ)]
-
-## - 2024
+_<font color="red">Submitted for publication.</font>_
 
 <br/>
-<i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 
+(2024) <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis and I. Panageas.
 <br/>
 _<font color="red">International Conference on Machine Learning (ICML 2024)</font>_ [[paper](https://openreview.net/forum?id=t8WDBcegae)]
 
 
+
+## (Multi-Agent) Deep Reinforcement Learning
+
 <br/>
-<i><b> Tree-based Focused Web Crawling with Reinforcement Learning </b> </i> 
+(2025) <i><b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration  </b> </i> 
 <br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Giannakopoulos and G. Paliouras.
+<u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
 <br/>
-_<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arxiv.org/abs/2112.07620)]
-
-## - 2023
+_<font color="red">Submitted for publication.</font>_
 
 <br/>
-<i><b> Inherently Interpretable Deep Reinforcement Learning through Mimicking </b> </i> 
+(2025) <i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
+<br/> 
+G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.
+<br/>
+_<font color="red">International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</font>_ [[paper](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ)]
+
+
+<br/>
+(2023) <i><b> Inherently Interpretable Deep Reinforcement Learning through Mimicking </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup> and G. Vouros.
 <br/>
 _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)]
 
-## - 2021
+
+## Applied AI/ML
 
 <br/>
-<i><b> A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology. The Case of the Southern Balkans and the Coastal Zone of Asia Minor. </b> </i> 
+(2021) <i><b> Tree-based Focused Web Crawling with Reinforcement Learning </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Paliouras and G. Giannakopoulos.
+<br/>
+_<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arxiv.org/abs/2112.07620)]
+
+<br/>
+(2021) <i><b> A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology. The Case of the Southern Balkans and the Coastal Zone of Asia Minor. </b> </i> 
 <br/> 
 E. Axiotis<sup>*</sup>, <u>A. Kontogiannis</u>, E. Kalpoutzakis and G. Giannakopoulos.
 <br/>
 _<font color="red">Applied Sciences</font>_ [[paper](https://www.mdpi.com/2076-3417/11/13/5826)] 
+
 

@@ -17,9 +17,10 @@ Here are my [Google Scholar](https://scholar.google.nl/citations?hl=en&user=nBFs
 ## Research Interests
 
 In general, I am interested in the intersection of game theory, online learning and reinforcement learning. Current areas of interest include: 
-* Convergence to equilibria in structured games (e.g., games with large action spaces, potential games)
-* Bandit theory (e.g., combinatorial and linear bandits)
-* Multi-agent reinforcement learning (MARL) focused on agent modelling, coordinated exploration and partial observability
+* Computing/Learning equilibria in structured games (e.g., games with large action spaces, Markov games)
+* Online learning and bandits (e.g., bandits with combinatorial structure)
+* The computational complexity of hard problems in game theory and optimization
+* Multi-agent reinforcement learning (MARL) under partial observability
 
 ## Recent News
 - 2024.12: One paper accepted at AAMAS 2025.

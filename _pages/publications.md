@@ -25,6 +25,13 @@ _<font color="red">International Conference on Machine Learning (ICML 2024)</fon
 
 
 <br/>
+(2025) <i><b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos and G. Vouros.
+<br/>
+_<font color="red">International Conference on Machine Learning (ICML 2024)</font>_
+
+<br/>
 (2025) <i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
 <br/> 
 G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis and G. Vouros.

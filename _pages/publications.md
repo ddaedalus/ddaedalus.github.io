@@ -21,7 +21,7 @@ _<font color="red">International Conference on Machine Learning (ICML 2024)</fon
 
 
 
-## (Multi-Agent) Deep Reinforcement Learning
+## Multi-Agent Deep Reinforcement Learning
 
 
 <br/>

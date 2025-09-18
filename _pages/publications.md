@@ -15,7 +15,7 @@ redirect_from:
 (2025) <i><b> 
 Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </b> </i> 
 <br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos, and I. Panageas.
+<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos and I. Panageas.
 <br/>
 _<font color="red">NeurIPS 2025</font>_
 

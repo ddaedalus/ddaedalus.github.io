@@ -23,6 +23,7 @@ In general, I am interested in the intersection of game theory, online learning 
 * Multi-agent reinforcement learning (MARL) under partial observability
 
 ## Recent News
+- 2025.09: One paper accepted at NeurIPS 2025.
 - 2025.05: One paper accepted at ICML 2025.
 - 2024.12: One paper accepted at AAMAS 2025.
 - 2024.05: One paper accepted at ICML 2024.

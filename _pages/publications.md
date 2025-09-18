@@ -12,7 +12,7 @@ redirect_from:
 ## Game Theory / Online Learning / Complexity
 
 <br/>
-(2024) <i><b> 
+(2025) <i><b> 
 Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos, and I. Panageas.

@@ -28,7 +28,6 @@ In general, my research lies at the intersection of game theory, online learning
 - 2025.05: One paper accepted at ICML 2025.
 - 2024.12: One paper accepted at AAMAS 2025.
 - 2024.05: One paper accepted at ICML 2024.
-- 2023.05: One paper accepted at EXTRAAMAS 2023 (AAMAS Workshop).
 
 ## Academic Service
 * Reviewing: **NeurIPS** (2024-present), **ICML** (2024-present), **ICLR** (2024-present), **ΑΑΑΙ** (2026), **AISTATS** (2025-present)

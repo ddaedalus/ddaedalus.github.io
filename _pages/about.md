@@ -26,7 +26,7 @@ In general, my research lies at the intersection of game theory, online learning
 - 2025.11: I am visiting Prof. Ioannis Panageas at UC Irvine.
 - 2025.09: One paper accepted at NeurIPS 2025.
 - 2025.05: One paper accepted at ICML 2025.
-- 2024.12: One paper accepted at AAMAS 2025.
+- 2024.12: One paper accepted at AAMAS 2025 (oral).
 - 2024.05: One paper accepted at ICML 2024.
 
 ## Academic Service

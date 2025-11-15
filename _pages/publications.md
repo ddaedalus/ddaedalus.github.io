@@ -61,7 +61,7 @@ _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Paliouras and G. Giannakopoulos.
 <br/>
-_<font color="red">CoRR (2021)</font>_ [[paper](https://arxiv.org/abs/2112.07620)]
+_<font color="red">CoRR</font>_ [[paper](https://arxiv.org/abs/2112.07620)]
 
 <br/>
 (2021) <i><b> A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology. The Case of the Southern Balkans and the Coastal Zone of Asia Minor. </b> </i> 

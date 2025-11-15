@@ -17,7 +17,7 @@ Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos and I. Panageas.
 <br/>
-_<font color="red">NeurIPS 2025</font>_ 
+_<font color="red">NeurIPS 2025</font>_ [[paper](https://arxiv.org/abs/2509.20919)]
 
 <br/>
 (2024) <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 
@@ -61,7 +61,7 @@ _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, D. Kelesis, V. Pollatos, G. Paliouras and G. Giannakopoulos.
 <br/>
-_<font color="red">Submitted for publication (2024)</font>_ [[paper](https://arxiv.org/abs/2112.07620)]
+_<font color="red">CoRR (2021)</font>_ [[paper](https://arxiv.org/abs/2112.07620)]
 
 <br/>
 (2021) <i><b> A Personalized Machine-Learning-Enabled Method for Efficient Research in Ethnopharmacology. The Case of the Southern Balkans and the Coastal Zone of Asia Minor. </b> </i> 

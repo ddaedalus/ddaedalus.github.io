@@ -73,8 +73,9 @@
   display: table-cell;
   vertical-align: top;
   // width: auto;
-  width: 150px;
-  height: 150px;
+  width: 300px;
+  height: 300px;
+  min-width: 80em;
 
   // set width only, for non-square avatars
   // height: 50px;

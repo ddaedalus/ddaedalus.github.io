@@ -78,7 +78,7 @@
   // min-width: 80em;
 
   // set width only, for non-square avatars
-  height: 50px;
+  height: auto;
 
   @include breakpoint($large) {
     display: block;

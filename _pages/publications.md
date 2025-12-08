@@ -28,7 +28,7 @@ _<font color="red">ICML 2024</font>_ [[paper](https://openreview.net/forum?id=t8
 
 
 
-## Multi-Agent Reinforcement Learning
+## AI Agents & Multi-Agent Reinforcement Learning
 
 
 <br/>

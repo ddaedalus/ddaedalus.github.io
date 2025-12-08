@@ -19,8 +19,8 @@ Here are my [Google Scholar](https://scholar.google.nl/citations?hl=en&user=nBFs
 In general, my research lies at the intersection of game theory, online learning and reinforcement learning. Current areas of interest include: 
 * Computing/Learning equilibria in structured games (e.g., Markov games, polyhedral games)
 * The computational complexity of hard problems in game theory and optimization
-* No-regret learning in settings with combinatorial structure (e.g., contextual & combinatorial bandits)
-* Multi-agent reinforcement learning (MARL) under partial observability
+* No-regret learning in settings with combinatorial structure
+* AI agents & Multi-agent reinforcement learning (MARL) under partial observability
 
 ## Recent News
 - 2025.11: I am visiting Prof. Ioannis Panageas at UC Irvine.

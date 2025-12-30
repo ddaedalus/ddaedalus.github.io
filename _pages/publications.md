@@ -41,7 +41,7 @@ _<font color="red">AAMAS 2025</font>_ [[paper](https://www.arxiv.org/abs/2502.04
 _<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)]
 
 
-## Computational Complexity and Optimization 
+## Optimization and Computational Complexity 
 
 <br/>
 (2024) <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 

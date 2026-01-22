@@ -12,7 +12,7 @@ redirect_from:
 ## Game Theory, Online Decision Making and Multi-Agent Learning
 
 <br/>
-(2025) <i><b> 
+(2026) <i><b> 
 Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos and I. Panageas.

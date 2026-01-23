@@ -41,13 +41,6 @@ G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou
 <br/>
 _<font color="red">AAMAS 2025</font>_ [[paper](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ)] [[code](https://github.com/AILabDsUnipi/pymarlzooplus)]
 
-<br/>
-(2023) <i><b> Inherently Interpretable Deep Reinforcement Learning through Mimicking </b> </i> 
-<br/> 
-<u>A. Kontogiannis</u><sup>*</sup> and G. Vouros.
-<br/>
-_<font color="red">EXTRAAMAS 2023 (AAMAS Workshop)</font>_ [[paper](https://link.springer.com/chapter/10.1007/978-3-031-40878-6_10)]
-
 
 ## Optimization and Computational Complexity 
 

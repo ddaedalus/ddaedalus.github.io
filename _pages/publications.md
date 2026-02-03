@@ -17,7 +17,7 @@ Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i>
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos and I. Panageas.
 <br/>
-_<font color="red">AISTATS 2026</font>_
+_<font color="red">AISTATS 2026</font>_ [[paper](https://arxiv.org/abs/2602.02087)]
 
 <br/>
 (2025) <i><b> 

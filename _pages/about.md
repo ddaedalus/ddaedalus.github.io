@@ -20,7 +20,7 @@ In general, my research lies at the intersection of game theory, online learning
 * Computing/Learning equilibria in structured games (e.g., Markov games, polyhedral games)
 * The computational complexity of hard problems in game theory and optimization
 * No-regret learning in settings with combinatorial structure
-* AI agents & Multi-agent reinforcement learning (MARL) under partial observability
+* AI agents & Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
 
 ## Recent News
 - 2026.01: One paper accepted at AISTATS 2026.

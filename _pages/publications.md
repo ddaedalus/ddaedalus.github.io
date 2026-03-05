@@ -9,8 +9,6 @@ redirect_from:
 
 # Publications
 
-## Game Theory, Online Decision Making and Multi-Agent Learning
-
 <br/>
 (2026) <i><b> 
 Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
@@ -41,8 +39,6 @@ G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou
 <br/>
 _<font color="red">AAMAS 2025</font>_ [[paper](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ)] [[code](https://github.com/AILabDsUnipi/pymarlzooplus)]
 
-
-## Optimization and Computational Complexity 
 
 <br/>
 (2024) <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 

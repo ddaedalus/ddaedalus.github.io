@@ -15,7 +15,7 @@ The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a 
 <br/> 
 [αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/> 
-_<font color="red">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2607.10897)
+_<font color="red">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
 
 <br/>
 (2026) <i><b> 

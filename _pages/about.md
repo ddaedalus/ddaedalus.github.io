@@ -26,7 +26,7 @@ In general, my research spans game theory, online learning, reinforcement learni
 * AI agents & Multi-agent reinforcement learning (MARL) under partial observability and imperfect information
 
 ## Recent News
-- 2026.07: New paper on the computational complexity of Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece.
+- 2026.07: New paper on the computational complexity of coarse correlated equilibria in Markov games. I will give a talk presenting this work in ACAC 2026 in Athens, Greece.
 - 2026.06: In July, I will be at WALE 2026 in Lemnos and at Greeks-in-AI 2026 in Athens. I have two spotlight-oral presentations accepted at Greeks-in-AI 2026.
 - 2026.04: New paper on the complexity of avoiding strict saddle points in constrained optimization.
 - 2026.01: One paper accepted at AISTATS 2026.

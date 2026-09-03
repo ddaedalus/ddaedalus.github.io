@@ -107,17 +107,17 @@ Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Reg
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
 <br/> 
 _<font color="orange">arXiv preprint (2026)</font>_ [[pdf]](https://arxiv.org/pdf/2605.26373)
-- <i> Efficient Swap Regret Minimization in Combinatorial Bandits </i> 
-<br/> 
-<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos, and I. Panageas.
-<br/>
-_<font color="red">AISTATS 2026</font>_ [[pdf]](https://arxiv.org/abs/2602.02087)
 - <i>
 Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos, and I. Panageas.
 <br/>
 _<font color="red">NeurIPS 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[pdf]](https://arxiv.org/abs/2509.20919) [[slides]](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)
+- <i> Efficient Swap Regret Minimization in Combinatorial Bandits </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos, and I. Panageas.
+<br/>
+_<font color="red">AISTATS 2026</font>_ [[pdf]](https://arxiv.org/abs/2602.02087)
 
 
 ### _<font color="MediumSeaGreen">AI & Multi-Agent Reinforcement Learning</font>_

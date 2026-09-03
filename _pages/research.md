@@ -15,7 +15,7 @@ Below, I outline the main research pillars of my work.
 
 This research pillar investigates the complexity of fundamental problems in non-convex optimization and algorithmic game theory.
 
-- <br/> <i><b> 
+- <i><b> 
 The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </b> </i> 
 <br/> 
 [αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.

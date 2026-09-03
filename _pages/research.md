@@ -37,7 +37,7 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 </details>
 
 <details class="research-toggle" markdown="1">
-<summary><strong>Equilibrium Computation in Markov Games</strong> <span class="toggle-symbol"></span></summary>
+<summary><strong>Markov Games</strong> <span class="toggle-symbol"></span></summary>
 
 We study the computational complexity of equilibria in *Markov games*; i.e., the game-theoretic framework capturing the setting of *multi-agent reinforcement learning*. The ultimate goal here is to identify the computational barriers of computing equilibria in Markov games and further explore settings where we can provably escape the PPAD-hardness inherent in general normal-form games.
 

@@ -37,7 +37,10 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 
 </details>
 
-**Equilibrium Computation in Markov (Stochastic) Games**: We study the computational complexity of equilibria in *Markov games*; i.e., the game-theoretic framework capturing the setting of *multi-agent reinforcement learning*. The ultimate goal here is to identify the computational barriers of computing equilibria in Markov games and further explore settings where we can provably escape the PPAD-hardness inherent in general normal-form games.
+<details class="research-toggle" markdown="1">
+<summary><strong>Equilibrium Computation in Markov Games</strong> <span class="toggle-symbol"></span></summary>
+
+We study the computational complexity of equilibria in *Markov games*; i.e., the game-theoretic framework capturing the setting of *multi-agent reinforcement learning*. The ultimate goal here is to identify the computational barriers of computing equilibria in Markov games and further explore settings where we can provably escape the PPAD-hardness inherent in general normal-form games.
 
 *What does an equilibrium look like?* To define an equilibrium notion in a Markov game, it is crucial to define (i) how strategies for the game are encoded; and (ii) what deviations from a putative equilibrium one considers. A policy is *Markovian* if its prescription depends only on the current state, rather than on the full history of play. Policies can also be *nonstationary*, allowing this prescription to vary with time, or *stationary*, using the same prescription whenever the same state is visited.  For finite discounted stochastic games, stationary Markov Nash equilibria (NE) are known to exist; however, they are computationally intractable due to the PPAD-hardness of NE in normal-form games. *Stationary Markov coarse correlated equilibria (CCE)* also exist as a superset of stationary Markov NE. Stationary Markov CCE provide a natural solution concept: they give a compact, time-homogeneous description of behavior, and their incentive constraints can be expressed entirely in terms of the same stationary policy.
 
@@ -55,6 +58,10 @@ Prior work has established PPAD-hardness for computing stationary Markov CCE in 
 
 
 In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an approximate stationary Markov CCE in single-controller Markov games is PPAD-complete. Our result shows that neither the switching-controller structure nor the equilibrium collapse property are what actually drives the hardness of stationary Markov CCE; it is enough that one player solely controls the transitions while both players affect rewards. Technically, our result is the first to show PPAD-hardness for computing CCE without relying on equilibrium collapse phenomena or reductions from hard Nash instances.
+
+<div style="clear: both;"></div>
+
+</details>
 
 ### _<font color="MediumSeaGreen">Game Theory & Online Learning: No-regret learning under imperfect information</font>_
 

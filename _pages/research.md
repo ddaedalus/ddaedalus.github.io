@@ -83,7 +83,7 @@ _<font color="red">ICML 2024</font>_ [[pdf]](https://openreview.net/forum?id=t8W
 <br/>
 
 
-### _<font color="MediumSeaGreen">Game Theory & Online Learning: No-regret learning under imperfect information
+### _<font color="MediumSeaGreen">Learning in Games & Online Learning
 </font>_
 
 In this research pillar, we investigate the convergence properties and structural guarantees of no-regret dynamics within environments characterized by information asymmetry and partial observability. 

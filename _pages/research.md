@@ -107,19 +107,19 @@ Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Reg
 <br/> 
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
 <br/> 
-_<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/pdf/2605.26373)
+_<font color="orange">arXiv preprint (2026)</font>_ [[pdf]](https://arxiv.org/pdf/2605.26373)
 - <i>
 <b> Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos, and I. Panageas.
 <br/>
-_<font color="red">AISTATS 2026</font>_ [[paper]](https://arxiv.org/abs/2602.02087)
+_<font color="red">AISTATS 2026</font>_ [[pdf]](https://arxiv.org/abs/2602.02087)
 - <i>
 <b> Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos, and I. Panageas.
 <br/>
-_<font color="red">NeurIPS 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[paper]](https://arxiv.org/abs/2509.20919) [[slides]](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)
+_<font color="red">NeurIPS 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[pdf]](https://arxiv.org/abs/2509.20919) [[slides]](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)
 
 
 ### _<font color="MediumSeaGreen">Agentic AI & Multi-agent reinforcement learning</font>_
@@ -148,9 +148,9 @@ The main direction of this research pillar is to study how AI agents can effecti
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos, and G. Vouros.
 <br/>
-_<font color="red">ICML 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[paper]](https://www.arxiv.org/abs/2505.05262) [[code]](https://github.com/ddaedalus/smpe/tree/main) [[slides]](https://drive.google.com/file/d/13LHR2YnTngitKF-fXoaUcEAX9rmblnW_/view?usp=sharing)
+_<font color="red">ICML 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[pdf]](https://www.arxiv.org/abs/2505.05262) [[code]](https://github.com/ddaedalus/smpe/tree/main) [[slides]](https://drive.google.com/file/d/13LHR2YnTngitKF-fXoaUcEAX9rmblnW_/view?usp=sharing)
 - <i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
 <br/> 
 G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis, and G. Vouros.
 <br/>
-_<font color="red">AAMAS 2025</font>_ [[paper]](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ) [[code]](https://github.com/AILabDsUnipi/pymarlzooplus)
+_<font color="red">AAMAS 2025</font>_ [[pdf]](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ) [[code]](https://github.com/AILabDsUnipi/pymarlzooplus)

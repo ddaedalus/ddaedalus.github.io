@@ -103,20 +103,21 @@ Moreover, we provided the *first efficiently implementable algorithm* for *adver
 
 <u><strong>Publications</strong></u>
 
-- <i><b> 
+- <i>
+<b> 
 Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback </b> </i> 
 <br/> 
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
 <br/> 
 _<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/pdf/2605.26373)
-- <br/> <i><b> 
-Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
+- <i>
+<b> Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos, and I. Panageas.
 <br/>
 _<font color="red">AISTATS 2026</font>_ [[paper]](https://arxiv.org/abs/2602.02087)
-- <i><b> 
-Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </b> </i> 
+- <i>
+<b> Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos, and I. Panageas.
 <br/>

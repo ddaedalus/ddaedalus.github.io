@@ -16,7 +16,7 @@ Below, I outline the main research pillars of my work.
 This research pillar investigates the complexity of fundamental problems in non-convex optimization and algorithmic game theory.
 
 <details class="research-toggle" markdown="1">
-<summary><strong>Stationary Points</strong> <span class="toggle-symbol"></span></summary>
+<summary><strong>Second-Order Stationary Points</strong> <span class="toggle-symbol"></span></summary>
 
 Our goal is to advance the computational understanding of finding *second-order stationary points* (SOSPs) in non-convex optimization. Such points are of remarkable interest for the ML/optimization community, since widely used optimizers—including Gradient Descent—can theoretically get stuck in first-order stationary points (FOSPs) that may correspond to problematic *strict saddle points*. Therefore, our main research question is the following:
 

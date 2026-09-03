@@ -34,8 +34,9 @@ Our goal is to advance the computational understanding of finding *second-order 
 We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](https://arxiv.org/abs/2604.02285) and unconstrained [(ICML 2024)](https://openreview.net/forum?id=t8WDBcegae) optimization; thereby resolving important open questions in the field. Our results imply that unless PLS $\subseteq$ PPAD (which is widely believed not to hold), there exists no iterative algorithm with a continuous, efficiently implementable update rule (such as Gradient Descent or Newton's method) for finding SOSPs! Last but not least, our result in the constrained setting yields the first problem defined in a compact domain to be shown PLS-complete beyond the canonical <span style="font-variant: small-caps;">Real-LocalOpt</span>.
 
 <div style="clear: both;"></div>
-
 </details>
+
+<br/> 
 
 <details class="research-toggle" markdown="1">
 <summary><strong>Equilibrium Computation in Markov Games</strong> <span class="toggle-symbol"></span></summary>
@@ -62,6 +63,8 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 <div style="clear: both;"></div>
 
 </details>
+
+<br/> 
 
 <u><strong>Publications</strong></u>
 
@@ -91,7 +94,7 @@ In this research pillar, we investigate the convergence properties and structura
 Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as *Nash equilibria* or *correlated equilibria*—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
 
 <details class="research-toggle" markdown="1">
-<summary><strong><font color="blue">Main results</font></strong> <span class="toggle-symbol"></span></summary>
+<summary><strong>Main results</strong> <span class="toggle-symbol"></span></summary>
 
 - **Learning under combinatorial structure**: We provided a kernelization-based algorithmic framework for learning in *polyhedral games* under imperfect information (i.e., *bandit* and *semi-bandit* feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit <span style="font-variant: small-caps;">GeometricHedge</span>/<span style="font-variant: small-caps;">ComBand</span> algorithm and the celebrated <span style="font-variant: small-caps;">Exp3-IX</span> algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work establishes state-of-the-art results in terms of the game parameters for learning *coarse correlated equilibria* across a wide array of games, such as Colonel Blotto and congestion games.
 Moreover, we provided the *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
@@ -100,6 +103,8 @@ Moreover, we provided the *first efficiently implementable algorithm* for *adver
 <div style="clear: both;"></div>
 
 </details>
+
+<br/> 
 
 <u><strong>Publications</strong></u>
 
@@ -121,9 +126,7 @@ _<font color="red">AISTATS 2026</font>_ [[paper]](https://arxiv.org/abs/2602.020
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos, and I. Panageas.
 <br/>
-_<font color="red">NeurIPS 2025</font>_ [[paper]](https://arxiv.org/abs/2509.20919) [[slides]](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)
-<br/>
-_<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_
+_<font color="red">NeurIPS 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[paper]](https://arxiv.org/abs/2509.20919) [[slides]](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)
 
 
 ### _<font color="MediumSeaGreen">Agentic AI & Multi-agent reinforcement learning</font>_
@@ -131,7 +134,7 @@ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_
 The main direction of this research pillar is to study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. In particular, we develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding of the limits of *decentralized decision making*, as well as to explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, particularly under safety constraints. 
 
 <details class="research-toggle" markdown="1">
-<summary><strong><font color="blue">Main results</font></strong> <span class="toggle-symbol"></span></summary>
+<summary><strong>Main results</strong> <span class="toggle-symbol"></span></summary>
 
 <div style="float: right; margin: 0 0 20px 20px; width: 55%;">
 <img src="{{ site.baseurl }}/images/lbf_results.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">
@@ -144,3 +147,19 @@ The main direction of this research pillar is to study how AI agents can effecti
 <div style="clear: both;"></div>
 
 </details>
+
+<br/> 
+
+<u><strong>Publications</strong></u>
+
+- <i>
+<b> Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, K. Papathanasiou<sup>*</sup>, Y. Shen, G. Stamou, M. Zavlanos, and G. Vouros.
+<br/>
+_<font color="red">ICML 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[paper]](https://www.arxiv.org/abs/2505.05262) [[code]](https://github.com/ddaedalus/smpe/tree/main) [[slides]](https://drive.google.com/file/d/13LHR2YnTngitKF-fXoaUcEAX9rmblnW_/view?usp=sharing)
+- <i><b> An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks </b> </i> 
+<br/> 
+G. Papadopoulos<sup>*</sup>, <u>A. Kontogiannis</u><sup>*</sup>, F. Papadopoulou, C. Poulianou, I. Koumentis, and G. Vouros.
+<br/>
+_<font color="red">AAMAS 2025</font>_ [[paper]](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ) [[code]](https://github.com/AILabDsUnipi/pymarlzooplus)

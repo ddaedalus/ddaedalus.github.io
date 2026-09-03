@@ -21,19 +21,18 @@ The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a 
 [αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/> 
 _<font color="red">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
-
 - <i><b> 
 The Computational Complexity of Avoiding Strict Saddle Points in Constrained Optimization </b> </i> 
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/>
 _<font color="red">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
-
 - <i><b> The Computational Complexity of Finding Second-Order Stationary Points </b> </i> 
 <br/> 
 <u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, S. Kanellopoulos, P. Mertikopoulos, A. Pagourtzis, and I. Panageas.
 <br/>
 _<font color="red">ICML 2024</font>_ [[paper]](https://openreview.net/forum?id=t8WDBcegae)
+<br/>
 
 <details class="research-toggle" markdown="1">
 <summary><strong>Stationary Points</strong> <span class="toggle-symbol"></span></summary>

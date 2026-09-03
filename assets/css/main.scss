@@ -96,3 +96,27 @@
     @include prefix(0.5 of 12);
   }
 }
+
+/* Collapsible research sections */
+
+.research-toggle > summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.research-toggle > summary::-webkit-details-marker {
+  display: none;
+}
+
+.research-toggle > summary::marker {
+  content: "";
+}
+
+.research-toggle .toggle-symbol::after {
+  content: "[+]";
+  font-weight: normal;
+}
+
+.research-toggle[open] .toggle-symbol::after {
+  content: "[-]";
+}

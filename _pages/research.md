@@ -68,10 +68,16 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 In this research pillar, we investigate the convergence properties and structural guarantees of no-regret dynamics within environments characterized by information asymmetry and partial observability. 
 Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as *Nash equilibria* or *correlated equilibria*—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
 
-#### _<font color="blue">Main results</font>_
+<details class="research-toggle" markdown="1">
+<summary><strong>_<font color="blue">Main results</font>_</strong> <span class="toggle-symbol"></span></summary>
+
 - **Learning under combinatorial structure**: We provided a kernelization-based algorithmic framework for learning in *polyhedral games* under imperfect information (i.e., *bandit* and *semi-bandit* feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit <span style="font-variant: small-caps;">GeometricHedge</span>/<span style="font-variant: small-caps;">ComBand</span> algorithm and the celebrated <span style="font-variant: small-caps;">Exp3-IX</span> algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work establishes state-of-the-art results in terms of the game parameters for learning *coarse correlated equilibria* across a wide array of games, such as Colonel Blotto and congestion games.
 Moreover, we provided the *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
 - **Learning under hidden-convex structure**: We study online learning with nonconvex losses that become convex under an *unknown* nonlinear reparameterization. In [(arXiv 2026)](https://arxiv.org/abs/2605.26373), we prove that Online Gradient Descent achieves optimal regret $\mathcal{O}(\sqrt{T})$ in the adversarial setting, matching the classical rate for online convex optimization; thereby improving over the previous established analysis that achieved $\mathcal{O}(T^{2/3})$ regret. We also characterize the geometric compatibility needed for this equivalence, show a linear-regret barrier when it fails, and extend the framework to one-point bandit feedback with $\mathcal{O}(T^{3/4})$ expected regret.
+
+<div style="clear: both;"></div>
+
+</details>
 
 ### _<font color="MediumSeaGreen">Agentic AI & Multi-agent reinforcement learning</font>_
 
@@ -82,6 +88,12 @@ The main direction of this research pillar is to study how AI agents can effecti
   </p>
 </div>
 
-#### _<font color="blue">Main results</font>_
+<details class="research-toggle" markdown="1">
+<summary><strong>_<font color="blue">Main results</font>_</strong> <span class="toggle-symbol"></span></summary>
+
 - A novel MARL algorithm, called SMPE, which leverages a novel state modelling framework for enhancing policy optimization and joint exploration in distributed partially observable environments where agents share no communication channels during execution [(ICML 2025)](https://www.arxiv.org/abs/2505.05262). Experimentally, we demonstrated that our method outperforms state-of-the-art MARL algorithms in complex fully cooperative tasks from the well-established MPE, LBF, and RWARE benchmarks.
 - In [(AAMAS 2025)](https://www.arxiv.org/abs/2502.04773?fbclid=IwZXh0bgNhZW0CMTAAAR0STD9oKF7IUu4fKUjMA_gBtADEwmaYDnz6RXsM4IhiTAp7H4MgMGmggMQ_aem_JyMoU6wDa2iyPMa-RrUxDQ), we highlight the crucial need for expanding systematic MARL evaluation across a wider array of benchmarks by showing that many algorithms, hailed as state-of-the-art mostly on the widely used SMAC benchmark, may significantly underperform standard MARL baselines on fully cooperative testbeds.
+
+<div style="clear: both;"></div>
+
+</details>

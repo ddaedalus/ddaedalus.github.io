@@ -37,7 +37,7 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 </details>
 
 <details class="research-toggle" markdown="1">
-<summary><strong><span style="color:blue">Markov Games</span></strong> <span class="toggle-symbol"></span></summary>
+<summary><span style="color:blue">Markov Games</span> <span class="toggle-symbol"></span></summary>
 
 We study the computational complexity of equilibria in *Markov games*; i.e., the game-theoretic framework capturing the setting of *multi-agent reinforcement learning*. The ultimate goal here is to identify the computational barriers of computing equilibria in Markov games and further explore settings where we can provably escape the PPAD-hardness inherent in general normal-form games.
 
@@ -89,7 +89,7 @@ In this research pillar, we investigate the convergence properties and structura
 Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as *Nash equilibria* or *correlated equilibria*—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
 
 <details class="research-toggle" markdown="1">
-<summary><strong><span style="color:blue">Main results</span></strong> <span class="toggle-symbol"></span></summary>
+<summary><span style="color:blue">Main results</span> <span class="toggle-symbol"></span></summary>
 
 - **Learning under combinatorial structure**: We provided a kernelization-based algorithmic framework for learning in *polyhedral games* under imperfect information (i.e., *bandit* and *semi-bandit* feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit <span style="font-variant: small-caps;">GeometricHedge</span>/<span style="font-variant: small-caps;">ComBand</span> algorithm and the celebrated <span style="font-variant: small-caps;">Exp3-IX</span> algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work establishes state-of-the-art results in terms of the game parameters for learning *coarse correlated equilibria* across a wide array of games, such as Colonel Blotto and congestion games.
 Moreover, we provided the *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
@@ -125,7 +125,7 @@ _<font color="red">AISTATS 2026</font>_ [[pdf]](https://arxiv.org/abs/2602.02087
 The main direction of this research pillar is to study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. In particular, we develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding of the limits of *decentralized decision making*, as well as to explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, particularly under safety constraints. 
 
 <details class="research-toggle" markdown="1">
-<summary><strong><span style="color:blue">Main results</span></strong> <span class="toggle-symbol"></span></summary>
+<summary><span style="color:blue">Main results</span> <span class="toggle-symbol"></span></summary>
 
 <div style="float: right; margin: 0 0 20px 20px; width: 55%;">
 <img src="{{ site.baseurl }}/images/lbf_results.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">

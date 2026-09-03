@@ -15,7 +15,7 @@ The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a 
 <br/> 
 [αβ] G. Farina, <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/> 
-_<font color="red">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
+_<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2607.10897) [[slides]](https://drive.google.com/file/d/1MRk7Te5hsS4LU67MPbxhZ-XUDruYXjm9/view?usp=sharing)
 
 <br/>
 (2026) <i><b> 
@@ -23,7 +23,7 @@ Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Reg
 <br/> 
 A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
 <br/> 
-_<font color="red">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/pdf/2605.26373)
+_<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/pdf/2605.26373)
 
 <br/>
 (2026) <i><b> 
@@ -31,7 +31,7 @@ The Computational Complexity of Avoiding Strict Saddle Points in Constrained Opt
 <br/> 
 [αβ] <u>A. Kontogiannis</u>, I. Panageas, and V. Pollatos.
 <br/>
-_<font color="red">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
+_<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/abs/2604.02285) [[slides]](https://drive.google.com/file/d/1vsN9oMapWCNYvrihfTctNLyOGD5gVVF2/view?usp=sharing)
 
 <br/>
 (2026) <i><b> 

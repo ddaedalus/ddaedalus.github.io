@@ -83,7 +83,8 @@ _<font color="red">ICML 2024</font>_ [[pdf]](https://openreview.net/forum?id=t8W
 <br/>
 
 
-### _<font color="MediumSeaGreen">Game Theory & Online Learning: No-regret learning under imperfect information</font>_
+### _<font color="MediumSeaGreen">Game Theory & Online Learning: No-regret learning under imperfect information
+</font>_
 
 In this research pillar, we investigate the convergence properties and structural guarantees of no-regret dynamics within environments characterized by information asymmetry and partial observability. 
 Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as *Nash equilibria* or *correlated equilibria*—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
@@ -120,7 +121,7 @@ Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From 
 _<font color="red">NeurIPS 2025.</font>_ _<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_ [[pdf]](https://arxiv.org/abs/2509.20919) [[slides]](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)
 
 
-### _<font color="MediumSeaGreen">Agentic AI & Multi-agent reinforcement learning</font>_
+### _<font color="MediumSeaGreen">AI & Multi-Agent Reinforcement Learning</font>_
 
 The main direction of this research pillar is to study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. In particular, we develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding of the limits of *decentralized decision making*, as well as to explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, particularly under safety constraints. 
 

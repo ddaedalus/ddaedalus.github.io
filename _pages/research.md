@@ -63,7 +63,7 @@ In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an
 
 </details>
 
-<strong>Publications</strong>
+<u><strong>Publications</strong></u>
 
 - <i>
 The Complexity of Computing Coarse Correlated Equilibria in Markov Games with a Single Controller </i> 
@@ -100,6 +100,30 @@ Moreover, we provided the *first efficiently implementable algorithm* for *adver
 <div style="clear: both;"></div>
 
 </details>
+
+<u><strong>Publications</strong></u>
+
+- <i><b> 
+Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback </b> </i> 
+<br/> 
+A. Barakat, <u>A. Kontogiannis</u>, V. Pollatos, I. Panageas, and A. Varvitsiotis.
+<br/> 
+_<font color="orange">arXiv preprint (2026)</font>_ [[paper]](https://arxiv.org/pdf/2605.26373)
+- <br/> <i><b> 
+Efficient Swap Regret Minimization in Combinatorial Bandits </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, P. Mertikopoulos, and I. Panageas.
+<br/>
+_<font color="red">AISTATS 2026</font>_ [[paper]](https://arxiv.org/abs/2602.02087)
+- <i><b> 
+Efficient Kernelized Learning in Polyhedral Games Beyond Full-Information: From Colonel Blotto to Congestion Games </b> </i> 
+<br/> 
+<u>A. Kontogiannis</u><sup>*</sup>, V. Pollatos<sup>*</sup>, G. Farina, P. Mertikopoulos, and I. Panageas.
+<br/>
+_<font color="red">NeurIPS 2025</font>_ [[paper]](https://arxiv.org/abs/2509.20919) [[slides]](https://drive.google.com/file/d/1HllFsP5s_-DxsO8RlMZ_FQYpdqMxc8Oo/view?usp=sharing)
+<br/>
+_<font color="purple">Spotlight paper at Greeks-In-AI 2026 symposium</font>_
+
 
 ### _<font color="MediumSeaGreen">Agentic AI & Multi-agent reinforcement learning</font>_
 

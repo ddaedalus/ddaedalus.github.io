@@ -15,6 +15,8 @@ Below, I outline the main research pillars of my work.
 
 This research pillar investigates the complexity of fundamental problems in non-convex optimization and algorithmic game theory.
 
+
+
 <details class="research-toggle" markdown="1">
 <summary><strong>Stationary Points</strong> <span class="toggle-symbol"></span></summary>
 
@@ -69,7 +71,7 @@ In this research pillar, we investigate the convergence properties and structura
 Specifically, I'm particularly interested in studying *decentralized online learning in games* under imperfect information, where no-regret dynamics translate to computing game-theoretic equilibrium notions—such as *Nash equilibria* or *correlated equilibria*—as well as *adversarial settings* where the learner competes against powerful, best-in-hindsight benchmarks. 
 
 <details class="research-toggle" markdown="1">
-<summary><strong>_<font color="blue">Main results</font>_</strong> <span class="toggle-symbol"></span></summary>
+<summary><strong><font color="blue">Main results</font></strong> <span class="toggle-symbol"></span></summary>
 
 - **Learning under combinatorial structure**: We provided a kernelization-based algorithmic framework for learning in *polyhedral games* under imperfect information (i.e., *bandit* and *semi-bandit* feedback), which facilitates efficient implementation and sampling for the classical combinatorial bandit <span style="font-variant: small-caps;">GeometricHedge</span>/<span style="font-variant: small-caps;">ComBand</span> algorithm and the celebrated <span style="font-variant: small-caps;">Exp3-IX</span> algorithm [(NeurIPS 2025)](https://arxiv.org/abs/2509.20919). Our work establishes state-of-the-art results in terms of the game parameters for learning *coarse correlated equilibria* across a wide array of games, such as Colonel Blotto and congestion games.
 Moreover, we provided the *first efficiently implementable algorithm* for *adversarial combinatorial bandits* that achieves *no swap regret* (that is, a strong notion of regret associated with correlated equilibria) with polylogarithmic dependence on the large action size of combinatorial bandits [(AISTATS 2026)](https://arxiv.org/abs/2602.02087).
@@ -84,7 +86,7 @@ Moreover, we provided the *first efficiently implementable algorithm* for *adver
 The main direction of this research pillar is to study how AI agents can effectively coordinate toward shared objectives in complex cooperative environments. In particular, we develop novel algorithmic frameworks based on *multi-agent reinforcement learning (MARL)*. Our ultimate goal is to advance our understanding of the limits of *decentralized decision making*, as well as to explore *agent/state modelling* paradigms for minimizing the communication requirements of multi-agent systems, particularly under safety constraints. 
 
 <details class="research-toggle" markdown="1">
-<summary><strong>_<font color="blue">Main results</font>_</strong> <span class="toggle-symbol"></span></summary>
+<summary><strong><font color="blue">Main results</font></strong> <span class="toggle-symbol"></span></summary>
 
 <div style="float: right; margin: 0 0 20px 20px; width: 55%;">
 <img src="{{ site.baseurl }}/images/lbf_results.png" alt="Research Figure" style="width: 100%; border-radius: 5px;">  <p style="font-size: 0.8em; line-height: 1.2; color: grey;">

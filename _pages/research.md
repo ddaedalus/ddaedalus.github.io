@@ -36,8 +36,6 @@ We proved that the problem is *PLS-complete* both in constrained [(arXiv 2026)](
 <div style="clear: both;"></div>
 </details>
 
-<br/> 
-
 <details class="research-toggle" markdown="1">
 <summary><strong>Equilibrium Computation in Markov Games</strong> <span class="toggle-symbol"></span></summary>
 
@@ -57,14 +55,11 @@ Prior work has established PPAD-hardness for computing stationary Markov CCE in 
   </p>
 </div>
 
-
 In [(arXiv 2026)](https://arxiv.org/abs/2607.10897), we proved that computing an approximate stationary Markov CCE in single-controller Markov games is PPAD-complete. Our result shows that neither the switching-controller structure nor the equilibrium collapse property are what actually drives the hardness of stationary Markov CCE; it is enough that one player solely controls the transitions while both players affect rewards. Technically, our result is the first to show PPAD-hardness for computing CCE without relying on equilibrium collapse phenomena or reductions from hard Nash instances.
 
 <div style="clear: both;"></div>
 
 </details>
-
-<br/> 
 
 <u><strong>Publications</strong></u>
 
@@ -103,8 +98,6 @@ Moreover, we provided the *first efficiently implementable algorithm* for *adver
 <div style="clear: both;"></div>
 
 </details>
-
-<br/> 
 
 <u><strong>Publications</strong></u>
 
@@ -147,8 +140,6 @@ The main direction of this research pillar is to study how AI agents can effecti
 <div style="clear: both;"></div>
 
 </details>
-
-<br/> 
 
 <u><strong>Publications</strong></u>
 

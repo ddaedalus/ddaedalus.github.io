@@ -7,7 +7,7 @@ redirect_from:
   - /research.md
 ---
 
-In general, my research spans algorithmic game theory, online learning, multi-agent reinforcement learning and computational complexity, as well as their applications to agentic AI and economics. 
+In general, my research spans algorithmic game theory, online learning, multi-agent reinforcement learning and computational complexity, as well as their applications to AI, machine learning, and economics. 
 The ultimate goal of my research is to develop theoretically principled solutions to algorithmic challenges, drawing inspiration from modern decision-making environments and AI, in order to bridge the gap between real-world application and fundamental computational understanding.
 Below, I outline the main research pillars of my work.
 
